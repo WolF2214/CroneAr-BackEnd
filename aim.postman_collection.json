@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "020d4380-85ed-4c27-b3cd-6fda9142bbe7",
+		"name": "app_info",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20432303"
+	},
+	"item": [
+		{
+			"name": "status",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "version",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
